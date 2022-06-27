@@ -1,0 +1,1 @@
+A guessing game where the application thinks of a number between 1 to 20 and you have to guess it. After each guess, a message appears telling you if the correct number is highr or lower than your guess and accordingly you keep guessing until you find the correct answer. Application thinks of a new number once the correct number is guessed.
